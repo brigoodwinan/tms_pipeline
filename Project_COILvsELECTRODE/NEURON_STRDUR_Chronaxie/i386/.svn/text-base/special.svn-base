@@ -1,0 +1,13 @@
+#!/bin/sh
+if test "x${NRNHOME}" = "x" ; then
+	NRNHOME="/Applications/NEURON-7.3/nrn"
+fi
+if test "x${NRNBIN}" = "x" ; then
+	NRNBIN="/Applications/NEURON-7.3/nrn/i386/bin/"
+fi
+if test "yes" = "yes" ; then
+	NRNIV="${NRNBIN}nrniv.app/Contents/MacOS/nrniv"
+else
+	NRNIV="${NRNBIN}nrniv"
+fi
+"${NRNIV}" -dll "/Users/cbutson/Documents/Butson_Code_SVN/branches/NEURON_STRDUR_Chronaxie/i386/.libs/libnrnmech.so" "$@"

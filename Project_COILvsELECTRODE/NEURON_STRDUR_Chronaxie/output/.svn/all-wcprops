@@ -1,0 +1,563 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Butson_Code/!svn/ver/151/branches/NEURON_STRDUR_Chronaxie/output
+END
+bstimstepthresh09.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh09.txt
+END
+somaV_vs_thresh_biphase_0.35.bin
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Butson_Code/!svn/ver/148/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_biphase_0.35.bin
+END
+somaV_vs_thresh_0.30.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Butson_Code/!svn/ver/150/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_0.30.txt
+END
+somaV_vs_thresh_monophase_0.30.bin
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Butson_Code/!svn/ver/148/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_monophase_0.30.bin
+END
+somaV_vs_thresh_0.35.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Butson_Code/!svn/ver/150/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_0.35.txt
+END
+somaV_vs_thresh_monophase_0.35.bin
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Butson_Code/!svn/ver/148/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_monophase_0.35.bin
+END
+ECSstepthresh01.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh01.txt
+END
+ECSstepthresh02.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh02.txt
+END
+ECSstepthresh03.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh03.txt
+END
+ECSstepthresh04.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh04.txt
+END
+ECSstepthresh05.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh05.txt
+END
+bstimstepthresh10.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh10.txt
+END
+currinjthreshold01.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold01.txt
+END
+ECSstepthresh06.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh06.txt
+END
+bstimstepthresh11.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh11.txt
+END
+ECSstepthresh07.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh07.txt
+END
+bstimstepthresh12.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh12.txt
+END
+currinjthreshold02.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold02.txt
+END
+ECSstepthresh08.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh08.txt
+END
+bstimstepthresh13.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh13.txt
+END
+currinjthreshold03.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold03.txt
+END
+somaV_vs_thresh_biphase_0.01.bin
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Butson_Code/!svn/ver/151/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_biphase_0.01.bin
+END
+ECSstepthresh09.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh09.txt
+END
+bstimstepthresh14.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh14.txt
+END
+currinjthreshold04.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold04.txt
+END
+bstimstepthresh15.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh15.txt
+END
+currinjthreshold05.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold05.txt
+END
+bstimstepthresh16.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh16.txt
+END
+currinjthreshold06.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold06.txt
+END
+somaV_vs_thresh_biphase_0.05.bin
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Butson_Code/!svn/ver/148/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_biphase_0.05.bin
+END
+bstimstepthresh17.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh17.txt
+END
+currinjthreshold07.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold07.txt
+END
+currinjthreshold08.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold08.txt
+END
+bstimstepthresh18.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh18.txt
+END
+currinjthreshold09.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold09.txt
+END
+bstimstepthresh19.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh19.txt
+END
+somaV_vs_thresh_0.01.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Butson_Code/!svn/ver/151/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_0.01.txt
+END
+somaV_vs_thresh_monophase_0.01.bin
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Butson_Code/!svn/ver/151/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_monophase_0.01.bin
+END
+somaV_vs_thresh_0.05.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Butson_Code/!svn/ver/150/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_0.05.txt
+END
+somaV_vs_thresh_monophase_0.05.bin
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Butson_Code/!svn/ver/148/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_monophase_0.05.bin
+END
+ECSstepthresh10.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh10.txt
+END
+ECSstepthresh11.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh11.txt
+END
+ECSstepthresh12.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh12.txt
+END
+ECSstepthresh13.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh13.txt
+END
+ECSstepthresh14.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh14.txt
+END
+currinjthreshold10.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold10.txt
+END
+bstimstepthresh20.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh20.txt
+END
+ECSstepthresh15.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh15.txt
+END
+currinjthreshold11.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold11.txt
+END
+ECSstepthresh16.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh16.txt
+END
+currinjthreshold12.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold12.txt
+END
+ECSstepthresh17.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh17.txt
+END
+somaV_vs_thresh_biphase_0.10.bin
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Butson_Code/!svn/ver/148/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_biphase_0.10.bin
+END
+currinjthreshold13.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold13.txt
+END
+ECSstepthresh18.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh18.txt
+END
+somaV_vs_thresh_biphase_0.12.bin
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Butson_Code/!svn/ver/151/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_biphase_0.12.bin
+END
+currinjthreshold14.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold14.txt
+END
+ECSstepthresh19.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh19.txt
+END
+somaV_vs_thresh_biphase_0.13.bin
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Butson_Code/!svn/ver/151/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_biphase_0.13.bin
+END
+currinjthreshold15.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold15.txt
+END
+somaV_vs_thresh_biphase_0.14.bin
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Butson_Code/!svn/ver/151/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_biphase_0.14.bin
+END
+currinjthreshold16.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold16.txt
+END
+somaV_vs_thresh_biphase_0.15.bin
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Butson_Code/!svn/ver/150/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_biphase_0.15.bin
+END
+currinjthreshold17.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold17.txt
+END
+currinjthreshold18.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold18.txt
+END
+currinjthreshold19.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold19.txt
+END
+somaV_vs_thresh_0.10.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Butson_Code/!svn/ver/150/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_0.10.txt
+END
+somaV_vs_thresh_monophase_0.10.bin
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Butson_Code/!svn/ver/148/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_monophase_0.10.bin
+END
+somaV_vs_thresh_0.12.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Butson_Code/!svn/ver/151/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_0.12.txt
+END
+somaV_vs_thresh_0.13.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Butson_Code/!svn/ver/151/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_0.13.txt
+END
+somaV_vs_thresh_0.14.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Butson_Code/!svn/ver/151/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_0.14.txt
+END
+somaV_vs_thresh_monophase_0.12.bin
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Butson_Code/!svn/ver/151/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_monophase_0.12.bin
+END
+somaV_vs_thresh_0.15.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Butson_Code/!svn/ver/150/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_0.15.txt
+END
+somaV_vs_thresh_monophase_0.13.bin
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Butson_Code/!svn/ver/151/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_monophase_0.13.bin
+END
+somaV_vs_thresh_monophase_0.14.bin
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Butson_Code/!svn/ver/151/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_monophase_0.14.bin
+END
+somaV_vs_thresh_monophase_0.15.bin
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Butson_Code/!svn/ver/150/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_monophase_0.15.bin
+END
+ECSstepthresh20.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/ECSstepthresh20.txt
+END
+currinjthreshold20.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/currinjthreshold20.txt
+END
+somaV_vs_thresh_biphase_0.20.bin
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Butson_Code/!svn/ver/148/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_biphase_0.20.bin
+END
+somaV_vs_thresh_biphase_0.25.bin
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Butson_Code/!svn/ver/148/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_biphase_0.25.bin
+END
+somaV_vs_thresh_0.20.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Butson_Code/!svn/ver/150/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_0.20.txt
+END
+somaV_vs_thresh_monophase_0.20.bin
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Butson_Code/!svn/ver/148/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_monophase_0.20.bin
+END
+somaV_vs_thresh_0.25.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Butson_Code/!svn/ver/150/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_0.25.txt
+END
+somaV_vs_thresh_monophase_0.25.bin
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Butson_Code/!svn/ver/148/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_monophase_0.25.bin
+END
+bstimstepthresh01.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh01.txt
+END
+bstimstepthresh02.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh02.txt
+END
+bstimstepthresh03.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh03.txt
+END
+bstimstepthresh04.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh04.txt
+END
+bstimstepthresh05.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh05.txt
+END
+bstimstepthresh06.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh06.txt
+END
+somaV_vs_thresh_biphase_0.30.bin
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Butson_Code/!svn/ver/148/branches/NEURON_STRDUR_Chronaxie/output/somaV_vs_thresh_biphase_0.30.bin
+END
+bstimstepthresh07.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh07.txt
+END
+bstimstepthresh08.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Butson_Code/!svn/ver/144/branches/NEURON_STRDUR_Chronaxie/output/bstimstepthresh08.txt
+END

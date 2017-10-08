@@ -1,0 +1,92 @@
+// RECORD SECTION POSITIONS
+//
+// Brian Goodwin
+//
+// Edit Dates:
+// 2014-07-21 - v2 (working version)
+//
+// v2
+// Changed the orientation of connections so that every connection
+// travels in the direction of child-to-parent
+
+objref f2,f3,f4
+f2 = new File()
+
+f2.wopen("coords_withaxon_ax20mm.pts")
+
+forall{
+	if (ismembrane("xtra")) {   // avoids section ELECTRODE being called
+		for (x) if(x!=0 && x!=1){
+			f2.printf("%f\t%f\t%f\n", x_xtra(x), y_xtra(x), z_xtra(x))
+            
+		}
+	}
+}
+f2.close()
+
+// This assumes that all sections have connections at x=0 or x=1 as recommended by NEURON
+// Building edge file...
+f3 = new File()
+f3.wopen("coords.edge")
+objref s,sref
+strdef priorseg,currentseg,firstseg,tmpch,tmppa,parsecname
+s = new SectionList()
+sref = new SectionRef()
+forall {
+    if (ismembrane("xtra")) {   // avoids section ELECTRODE being called
+        priorseg = ""
+        it = 0
+		numsegs = nseg
+		parsecname = secname()
+		orient = section_orientation()
+        for(x) if(x!=0 && x!=1) {
+            it = it+1
+            sprint(currentseg,"%s_%g", secname(), it)
+			
+            if(0<strcmp(priorseg,"")) {
+				if(orient==1) {
+					f3.printf("%s %s\n",priorseg,currentseg)
+				} else {
+					f3.printf("%s %s\n",currentseg,priorseg)
+				}
+            }
+            priorseg = currentseg
+        }
+        
+        s.children()
+        forsec s {
+			ch = section_orientation()
+			if(ch==0) {
+				ch = 1
+			} else {
+				ch = nseg
+			}
+			
+			pa = parent_connection()
+			if(pa==0) {
+				pa = 1
+			} else {
+				pa = numsegs
+			}
+			sprint(tmpch,"%s_%g",secname(),ch)
+			sprint(tmppa,"%s_%g",parsecname,pa)
+			f3.printf("%s %s\n",tmpch,tmppa)
+        }
+        s.remove(s)
+    }
+}
+f3.close()
+
+// Order of sections for extracellular potential
+f4 = new File()
+f4.wopen("coords_section_orders.txt")
+forall {
+	if(ismembrane("xtra")) {   // avoids section ELECTRODE being called
+        it = 0
+		for (x) if(x!=0 && x!=1) {
+            it = it+1
+			f4.printf("%s_%g\n", secname(), it)
+		}
+	}
+}
+f4.close()
